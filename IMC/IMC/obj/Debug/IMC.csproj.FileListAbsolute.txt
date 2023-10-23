@@ -1,0 +1,11 @@
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.frmIMC.resources
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\pablo\OneDrive\Escritorio\facultad\Laboratorio\IMC\IMC\obj\Debug\IMC.pdb
